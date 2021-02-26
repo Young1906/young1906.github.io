@@ -1,9 +1,4 @@
 ---
 layout:post
-title:Shopee Product Detection Challenge
-categories:
-  - deep-learning
-  - computer-vision
+title:Shopee product detection, Shopee Code League 2020
 ---
-
-Test
