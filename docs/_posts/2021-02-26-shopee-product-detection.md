@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Shopee Product Detection Challenge
-categories: Deep-Learning Computer-Vision
+layout:post
+title:Shopee Product Detection Challenge
+categories:
+  - deep-learning
+  - computer-vision
 ---
 
 Test
