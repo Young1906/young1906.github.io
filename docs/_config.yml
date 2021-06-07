@@ -27,7 +27,8 @@ facebook_username: tu.dothanh
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: riggraz/no-style-please
+# theme: minima
 plugins:
   - jekyll-feed
 
