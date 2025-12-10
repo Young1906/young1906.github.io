@@ -1,6 +1,7 @@
 ---
 title: My crash course to functional analysis
 date: 2025-09-06
+draft: true 
 tags: [learning, real-analysis]
 ---
 
